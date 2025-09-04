@@ -79,3 +79,4 @@ build/
 .cache/
 .parcel-cache/
 .eslintcache
+.env
